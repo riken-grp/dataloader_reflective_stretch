@@ -18,6 +18,8 @@ pipenv install
 pipenv run python dataloader.py
 ```
 
+実行前に ```data.zip``` をダウンロードして解凍する．
+
 データセットのディレクトリは ```./data```.
 
 ```./data/scenario/scenario.integrated.json``` がユーザ発話や説明的な特徴量を含んだシナリオの json ファイル．
